@@ -55,7 +55,3 @@ Yulu, India’s leading micro-mobility service provider, offers a unique fleet o
 
 ## 6. Conclusion
 This project aims to identify and analyze the factors driving demand for Yulu’s shared electric cycles, providing data-driven insights to help the company improve its service offerings and address revenue challenges.
-
----
-
-You can paste this directly into your GitHub README file.
